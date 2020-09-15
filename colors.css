@@ -1,0 +1,63 @@
+body {
+  background-color: #000000;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 5%;
+  color: rgb(255, 255, 255);
+}
+
+h3 {
+  text-align: center;
+  padding-top: 5%;
+  color: rgb(255, 255, 255);
+}
+
+div.color-group {
+  padding-top: 10%;
+}
+
+button.btn.btn-default1 {
+  background-image: linear-gradient(to right, red, yellow);
+  margin: 30px;
+  border: 2px solid black;
+  padding: 14px 40px;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+button.btn.btn-default2 {
+  background-image: linear-gradient(to right, blue, violet);
+  margin: 30px;
+  border: 2px solid black;
+  padding: 14px 40px;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+button.btn.btn-default3 {
+  background-image: linear-gradient(to right, green, yellow);
+  margin: 30px;
+  border: 2px solid black;
+  padding: 14px 40px;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+button.btn.btn-default4 {
+  background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(255, 196, 0));
+  margin: 30px;
+  border: 2px solid black;
+  padding: 14px 40px;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  cursor: pointer;
+}
